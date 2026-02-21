@@ -17,10 +17,8 @@ A comprehensive AI agent skill for PHP 7.4 core development — no framework req
 
 ## Install
 
-This repository is a monorepo that can host multiple skills. Install this one by name:
-
 ```bash
-npx skills add https://github.com/cybernerdie/agent-skills --skill php74-expert
+npx skills add cybernerdie/agent-skills --skill php74-expert
 ```
 
 ## Compatible Agents
